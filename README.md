@@ -26,8 +26,12 @@ Sou programador Front-End, desenvolvo sites uasando HTML e CSS, atualmente estud
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Conectem Comigo :blue_heart:</h1>
-    <a href="https://www.linkedin.com/in/cleber-alves-2a30a722b/"><img align="center" height="30" width="40" alt="linkedin-logo"  src="https://github.com/kreby4555/kreby4555/assets/108768059/65bb7dc6-e3c2-48aa-bfbf-ace14657be70"></a>
-    <a href="https://www.instagram.com/acodador/"><img align="center" height="30" width="40" alt="instagram" src="https://github.com/kreby4555/kreby4555/assets/108768059/03560338-c7a7-4a07-bfa7-cf8579880213"></a>
+    <a href="https://www.linkedin.com/in/cleber-alves-2a30a722b/">
+      <img align="center" height="30" width="40" alt="linkedin-logo"  src="https://github.com/kreby4555/kreby4555/assets/108768059/65bb7dc6-e3c2-48aa-bfbf-ace14657be70">
+    </a>
+    <a href="https://www.instagram.com/acodador/">
+      <img align="center" height="30" width="40" alt="instagram" src="https://github.com/kreby4555/kreby4555/assets/108768059/03560338-c7a7-4a07-bfa7-cf8579880213">
+    </a>
     
    </div>
 
