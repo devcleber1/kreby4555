@@ -1,4 +1,6 @@
-## Faaaala dev, Cleber aqui!
+## Hello I'm Cleber!
+
+Sou programador Front-End, desenvolvo sites uasando HTML e CSS, atualmente estudando JavaScript e React!
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=kreby4555&show_icons=true&theme=dark" >
@@ -6,18 +8,30 @@
   </div>
 <br>
 
-<img src="./gif.webp">
-
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Melhores Tecnologias :heart:</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
+   <br>
+   <br>
+
+
+  <div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Conectem Comigo :blue_heart:</h1>
+    <a href="https://www.linkedin.com/in/cleber-alves-2a30a722b/"><img align="center" height="30" width="40" alt="linkedin-logo"  src="https://github.com/kreby4555/kreby4555/assets/108768059/65bb7dc6-e3c2-48aa-bfbf-ace14657be70"></a>
+    <a href="https://www.instagram.com/acodador/"><img align="center" height="30" width="40" alt="instagram" src="https://github.com/kreby4555/kreby4555/assets/108768059/03560338-c7a7-4a07-bfa7-cf8579880213"></a>
+    
+   </div>
+
+
+
+
+   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
