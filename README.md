@@ -1,6 +1,6 @@
 ## Hello I'm Cleber!
 
-Sou programador Front-End, desenvolvo sites uasando HTML e CSS, atualmente estudando JavaScript e React!
+Sou um  Desenvolvedor Full-Stack, desenvolvo sites uasando HTML e CSS, atualmente estudando Nodejs!
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=kreby4555&show_icons=true&theme=dark" >
