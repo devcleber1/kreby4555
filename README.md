@@ -7,14 +7,14 @@ No que diz respeito às minhas habilidades de front-end, tenho experiência em H
 No que se refere às minhas habilidades de back-end, trabalho principalmente com Node.js e utilizo bancos de dados relacionais e não relacionais, como PostgreSQL e MongoDB. Tenho experiência em consumir APIs eficientes e escaláveis, usando ferramentas como Docker e Sequelize. Meu objetivo é fornecer uma infraestrutura robusta e segura para aplicativos web, garantindo alto desempenho e estabilidade.
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=kreby4555&show_icons=true&theme=dark" >
-   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreby4555&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  margin-bottom="20px" height="180em" src="https://github-readme-stats.vercel.app/api?username=kreby4555&show_icons=true&theme=dark" >
+   <img margin-bottom="20px" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreby4555&layout=compact&langs_count=16&theme=great-gatsby"/>
   </div>
 <br>
 
 
 <div  align="center"> 
-  <div><br>
+  <div margin-right="20px"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias :heart:</h1>
     <img align="center" height="60" width="120" alt="node-icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
