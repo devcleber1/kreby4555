@@ -4,7 +4,7 @@ Sou um  Desenvolvedor Full-Stack!
 
 No que diz respeito às minhas habilidades de front-end, tenho experiência em HTML, CSS e JavaScript, além de conhecimento sólido em frameworks como React. Procuro estar sempre atualizado com as últimas tendências e tecnologias do mercado para fornecer aos meus clientes soluções inovadoras e eficientes. Meu objetivo é criar interfaces atraentes e funcionais, com atenção especial à experiência do usuário.
 
-No que se refere às minhas habilidades de back-end, trabalho principalmente com Node.js e utilizo bancos de dados relacionais e não relacionais, como PostgreSQL e MongoDB. Tenho experiência em consumir APIs eficientes e escaláveis, usando ferramentas como Docker e Sequelize. Meu objetivo é fornecer uma infraestrutura robusta e segura para aplicativos web, garantindo alto desempenho e estabilidade.
+No que se refere às minhas habilidades de back-end, trabalho principalmente com Node.js e utilizo bancos de dados relacionais e não relacionais, como PostgreSQL e MongoDB. Tenho experiência em consumir APIs eficientes e escaláveis, usando ferramentas como Docker e Sequelize. Meu objetivo é fornecer uma infraestrutura robusta e segura para aplicativos web, garantindo alto desempenho e estabilidade..
 
 <div>
   <img  margin-bottom="20px" height="180em" src="https://github-readme-stats.vercel.app/api?username=kreby4555&show_icons=true&theme=dark" >
